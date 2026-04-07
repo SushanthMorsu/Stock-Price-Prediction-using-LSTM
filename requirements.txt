@@ -4,6 +4,6 @@ pandas
 matplotlib
 pandas-datareader
 scikit-learn
-tensorflow==2.15.0
+tensorflow
 keras
 yfinance
