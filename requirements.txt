@@ -4,6 +4,5 @@ pandas
 matplotlib
 pandas-datareader
 scikit-learn
-keras
-tensorflow>=2.21.0rc1
 yfinance
+h5py
