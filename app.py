@@ -11,7 +11,7 @@ import math
 
 # Define start and end dates for data
 start = '2015-01-01'
-end = date.today().strftime('%Y-%m-%d')
+end = date.today().strftime('%Y-%m')
 
 # Streamlit app title
 st.title('Stock Price Prediction')
